@@ -1,5 +1,5 @@
 package com.yan.Change_money;
-
+//这是一个作废对象，之前的作用是在系统当中实现消费的功能
 public class Chandet {
     //设置一个数据显示的效果
     public void chandet(){
